@@ -235,8 +235,8 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/",
-    live_project_url: "",
+    source_code_link: "https://github.com/parva-jain/Portfolio-website",
+    live_project_url: "https://parvajain-dev.vercel.app/",
   },
 ];
 
